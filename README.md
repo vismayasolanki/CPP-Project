@@ -1,2 +1,2 @@
-# CPP-Project
-A simple NON-GUI based Object oriented project which acts mini-text editor with minimal features 
+# Text Analysing Tool
+Used **Object Oriented Programming** to implment a basic Terminal based text analysing tool 
